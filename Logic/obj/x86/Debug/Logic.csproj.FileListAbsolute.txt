@@ -1,0 +1,45 @@
+C:\Users\www.mobilkom.ru\AppData\Local\Temporary Projects\Logic\bin\Debug\Logic.exe
+C:\Users\www.mobilkom.ru\AppData\Local\Temporary Projects\Logic\bin\Debug\Logic.pdb
+C:\Users\www.mobilkom.ru\AppData\Local\Temporary Projects\Logic\obj\x86\Debug\Logic.Form1.resources
+C:\Users\www.mobilkom.ru\AppData\Local\Temporary Projects\Logic\obj\x86\Debug\Logic.Properties.Resources.resources
+C:\Users\www.mobilkom.ru\AppData\Local\Temporary Projects\Logic\obj\x86\Debug\Logic.csproj.GenerateResource.Cache
+C:\Users\www.mobilkom.ru\AppData\Local\Temporary Projects\Logic\obj\x86\Debug\Logic.exe
+C:\Users\www.mobilkom.ru\AppData\Local\Temporary Projects\Logic\obj\x86\Debug\Logic.pdb
+C:\Users\www.mobilkom.ru\documents\visual studio 2010\Projects\Logic\Logic\obj\x86\Debug\Logic.exe
+C:\Users\www.mobilkom.ru\documents\visual studio 2010\Projects\Logic\Logic\obj\x86\Debug\Logic.pdb
+C:\Users\www.mobilkom.ru\documents\visual studio 2010\Projects\Logic\Logic\bin\Debug\Logic.exe
+C:\Users\www.mobilkom.ru\documents\visual studio 2010\Projects\Logic\Logic\bin\Debug\Logic.pdb
+C:\Users\www.mobilkom.ru\documents\visual studio 2010\Projects\Logic\Logic\obj\x86\Debug\Logic.Form1.resources
+C:\Users\www.mobilkom.ru\documents\visual studio 2010\Projects\Logic\Logic\obj\x86\Debug\Logic.Properties.Resources.resources
+C:\Users\www.mobilkom.ru\documents\visual studio 2010\Projects\Logic\Logic\obj\x86\Debug\Logic.csproj.GenerateResource.Cache
+C:\Users\www.mobilkom.ru\documents\visual studio 2010\Projects\Logic\Logic\obj\x86\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\Logic\Logic\obj\x86\Debug\Logic.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Logic\Logic\obj\x86\Debug\Logic.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Logic\Logic\bin\Debug\Logic.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Logic\Logic\bin\Debug\Logic.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Logic\Logic\obj\x86\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\Logic\Logic\obj\x86\Debug\Logic.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Logic\Logic\obj\x86\Debug\Logic.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Logic\Logic\obj\x86\Debug\Logic.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2010\Projects\Logic\Logic\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\user\documents\visual studio 2010\Projects\Logic\Logic\bin\Debug\OpenTK.dll
+C:\Users\user\documents\visual studio 2010\Projects\Logic\Logic\bin\Debug\OpenTK.GLControl.dll
+C:\Users\user\documents\visual studio 2010\Projects\Logic\Logic\bin\Debug\OpenTK.xml
+C:\Users\user\documents\visual studio 2010\Projects\Logic\Logic\bin\Debug\OpenTK.Compatibility.xml
+C:\Users\user\documents\visual studio 2010\Projects\Logic\Logic\bin\Debug\OpenTK.GLControl.xml
+C:\Users\user\documents\visual studio 2010\Projects\Logic\Logic\obj\x86\Debug\Logic.Form_game.resources
+C:\Users\www.mobilkom.ru\Documents\Visual Studio 2010\Projects\SocioSimulate\Logic\obj\x86\Debug\Logic.exe
+C:\Users\www.mobilkom.ru\Documents\Visual Studio 2010\Projects\SocioSimulate\Logic\obj\x86\Debug\Logic.pdb
+C:\Users\www.mobilkom.ru\Documents\Visual Studio 2010\Projects\SocioSimulate\Logic\obj\x86\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\www.mobilkom.ru\Documents\Visual Studio 2010\Projects\SocioSimulate\Logic\obj\x86\Debug\Logic.Form1.resources
+C:\Users\www.mobilkom.ru\Documents\Visual Studio 2010\Projects\SocioSimulate\Logic\obj\x86\Debug\Logic.Form_game.resources
+C:\Users\www.mobilkom.ru\Documents\Visual Studio 2010\Projects\SocioSimulate\Logic\obj\x86\Debug\Logic.Properties.Resources.resources
+C:\Users\www.mobilkom.ru\Documents\Visual Studio 2010\Projects\SocioSimulate\Logic\obj\x86\Debug\Logic.csproj.GenerateResource.Cache
+C:\Users\www.mobilkom.ru\Documents\Visual Studio 2010\Projects\SocioSimulate\Logic\bin\Debug\Logic.exe
+C:\Users\www.mobilkom.ru\Documents\Visual Studio 2010\Projects\SocioSimulate\Logic\bin\Debug\Logic.pdb
+C:\Users\www.mobilkom.ru\Documents\Visual Studio 2010\Projects\SocioSimulate\Logic\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\www.mobilkom.ru\Documents\Visual Studio 2010\Projects\SocioSimulate\Logic\bin\Debug\OpenTK.dll
+C:\Users\www.mobilkom.ru\Documents\Visual Studio 2010\Projects\SocioSimulate\Logic\bin\Debug\OpenTK.GLControl.dll
+C:\Users\www.mobilkom.ru\Documents\Visual Studio 2010\Projects\SocioSimulate\Logic\bin\Debug\OpenTK.xml
+C:\Users\www.mobilkom.ru\Documents\Visual Studio 2010\Projects\SocioSimulate\Logic\bin\Debug\OpenTK.Compatibility.xml
+C:\Users\www.mobilkom.ru\Documents\Visual Studio 2010\Projects\SocioSimulate\Logic\bin\Debug\OpenTK.GLControl.xml

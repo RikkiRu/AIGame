@@ -1,0 +1,13 @@
+New game*Новая игра
+Load*Загрузка
+Options*Настройки
+About*Об игре
+Exit*Выход
+Logic game*Логика
+Cancel*Отмена
+Sound*Звуки
+Resolution*Разрешение
+Windowed*Оконный режим
+Game modes*Режимы игры
+With AI*С компьютером
+Two players*Два игрока

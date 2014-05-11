@@ -1,0 +1,3 @@
+Lang=0
+sizeX=300
+sizeY=200
